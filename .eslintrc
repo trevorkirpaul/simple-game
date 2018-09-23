@@ -1,0 +1,10 @@
+{
+  "extends": "fbjs",
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "moduleDirectory": ["node_modules", "src/"]
+      }
+    }
+  }
+}
